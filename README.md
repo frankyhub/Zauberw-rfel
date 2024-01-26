@@ -59,5 +59,5 @@ Der Zauberwürfel oder auch Rubik´s Cube, ist ein Drehpuzzle, das 1974 von dem 
 
 ---
 
----
+
 
