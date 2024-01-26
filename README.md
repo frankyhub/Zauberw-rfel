@@ -1,3 +1,7 @@
+<a name="oben"></a>
+
+ 
+
 # Zauberwürfel
 Rubiks Cube
 
@@ -47,5 +51,13 @@ Der Zauberwürfel oder auch Rubik´s Cube, ist ein Drehpuzzle, das 1974 von dem 
 
 
 ---
+
+
+<div style="position:absolute; left:2cm; ">   
+<ol class="breadcrumb" style="border-top: 2px solid black;border-bottom:2px solid black; height: 45px; width: 900px;"> <p align="center"><a href="#oben">nach oben</a></p></ol>
+</div>
+
+---
+
 ---
 
