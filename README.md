@@ -1,2 +1,2 @@
-# Zauberw-rfel
+# Zauberwürfel
 Rubiks Cube
