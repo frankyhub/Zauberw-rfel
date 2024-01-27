@@ -11,43 +11,43 @@ Der Zauberwürfel oder auch Rubik´s Cube, ist ein Drehpuzzle, das 1974 von dem 
 
 ## Der Zauberwürfel
 
-![Zauberwerfel](https://github.com/frankyhub/Zauberwuerfel/blob/main/pic/zauberwuerfel.png)
+![Zauberwerfel](/pic/zauberwuerfel.png)
 
 ---
 
 ## Der Zauberwürfel Schnittdarstellung
 
-![Zauberwerfel](https://github.com/frankyhub/Zauberwuerfel/blob/main/pic/wuerfel.png)
+![Zauberwerfel](/pic/wuerfel.png)
 
 ---
 
 ## Der Zauberwürfel Schnittdarstellung und Innenteile
 
-![Zauberwerfel](https://github.com/frankyhub/Zauberwuerfel/blob/main/pic/wuerfel3.png)
+![Zauberwerfel](/pic/wuerfel3.png)
 
 ---
 
 ## Der Zauberwürfel Explosionsdarstellung
 
-![Zauberwerfel](https://github.com/frankyhub/Zauberwuerfel/blob/main/pic/wuerfel1.png)
+![Zauberwerfel](/pic/wuerfel1.png)
 
 ---
 
 ## Der Zauberwürfel Innenteile einzeln
 
-![Zauberwerfel](https://github.com/frankyhub/Zauberwuerfel/blob/main/pic/wuerfel2.png)
+![Zauberwerfel](/pic/wuerfel2.png)
 
 ---
 
 ## Der Zauberwürfel Innenteil Schnittdarstellung
 
-![Zauberwerfel](https://github.com/frankyhub/Zauberwuerfel/blob/main/pic/zauberw%C3%BCrfelinnen.png)
+![Zauberwerfel](/pic/zauberw%C3%BCrfelinnen.png)
 
 ---
 
 ## Der Zauberwürfel-Ständer
 
-![Zauberwerfel](https://github.com/frankyhub/Zauberwuerfel/blob/main/pic/zauberwuerfelstaender.png)
+![Zauberwerfel](/pic/zauberwuerfelstaender.png)
 
 
 ---
